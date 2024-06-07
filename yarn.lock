@@ -2552,6 +2552,9 @@
 "@modules/audio-player@file:./modules/audio-player":
   version "1.0.0"
 
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
 "@modules/image-gallery@file:./modules/image-gallery":
   version "1.0.0"
 
